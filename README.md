@@ -1,13 +1,11 @@
 # Gesture-Recognition-with-MediaPipe-Hands-Webcam-Based-
-
+# Computer Vision Project
 Project Overview :
 
 This project implements real-time hand gesture recognition using a pre-trained MediaPipe Hands model and a live webcam feed.
 The system detects hand landmarks, classifies predefined gestures, and triggers interactive actions such as background color changes and sound playback.
 
 The project runs entirely in the browser using JavaScript and does not require model training.
-
-[Dataset Link](https://www.kaggle.com/datasets/kennathalexanderroy/budget-vs-actual-financial-dataset)
 
 Objectives :
 
