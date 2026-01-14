@@ -67,8 +67,7 @@ gesture-recognition/
 
 ├── script.js
 
-└── sound/
-    └── mixkit-alarm-clock-beep-988.wav
+└── sound/ mixkit-alarm-clock-beep-988.wav
     
 
 How to Run the Project :
