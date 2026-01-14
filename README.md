@@ -27,14 +27,18 @@ JavaScript
 
 HTML5 & CSS3
 
+Gesture	Detection Logic	Action Triggered :
 
-🖐️ Supported Gestures & Actions
-Gesture	Detection Logic	Action Triggered
 👍 Thumbs Up	Thumb up, others down	Green background
+
 ✌️ Peace Sign	Index & middle up	Blue background + sound
+
 ✋ Open Palm	All fingers up	Yellow background
+
 ✊ Fist	All fingers folded	Red background
+
 🤟 Rock Sign / I Love You	Thumb + index + pinky up	Purple background
+
 👌 OK Sign	Thumb touches index	Orange background
 
 How It Works  :
@@ -54,12 +58,18 @@ Hand landmarks are drawn on canvas in real time
 Project Structure :
 
 gesture-recognition/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── sound/
     └── mixkit-alarm-clock-beep-988.wav
+    
 
 How to Run the Project :
 
